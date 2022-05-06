@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ejemplos-clases-constuctores-java/EjemploConstructores/EjemploConstructores.iml" filepath="$PROJECT_DIR$/ejemplos-clases-constuctores-java/EjemploConstructores/EjemploConstructores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemplos-clases-constuctores-java/EjemploRepresentacionToString/EjemploRepresentacionToString.iml" filepath="$PROJECT_DIR$/ejemplos-clases-constuctores-java/EjemploRepresentacionToString/EjemploRepresentacionToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemplos-clases-constructores-diagramas/ejemplo01/codigo/ManejoClases/ManejoClases.iml" filepath="$PROJECT_DIR$/ejemplos-clases-constructores-diagramas/ejemplo01/codigo/ManejoClases/ManejoClases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemplos-clases-constructores-diagramas/ejemplo01/codigo/ManejoClasesDos/ManejoClasesDos.iml" filepath="$PROJECT_DIR$/ejemplos-clases-constructores-diagramas/ejemplo01/codigo/ManejoClasesDos/ManejoClasesDos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemplos-clases-constuctores-java/ProblemasConstructores/ProblemasConstructores.iml" filepath="$PROJECT_DIR$/ejemplos-clases-constuctores-java/ProblemasConstructores/ProblemasConstructores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/clase04-1bim-furaiwam.iml" filepath="$PROJECT_DIR$/.idea/clase04-1bim-furaiwam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemplos-clases-constructores-diagramas/ejemplo02/ejemplo02.iml" filepath="$PROJECT_DIR$/ejemplos-clases-constructores-diagramas/ejemplo02/ejemplo02.iml" />
+    </modules>
+  </component>
+</project>
